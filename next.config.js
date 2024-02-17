@@ -10,6 +10,7 @@ const nextConfig = {
     return config;
   },
   experimental: {
+    esmExternals: 'loose',
     outputFileTracingIncludes: {
       "/*": ["./cache/**/*"],
     },
