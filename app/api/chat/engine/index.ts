@@ -35,7 +35,7 @@ async function getDataSource(llm: LLM) {
 export async function createChatEngine(llm: LLM) {
   const index = await getDataSource(llm);
   const retriever = index.asRetriever();
-  retriever.similarityTopK = 3;
+  retriever.similarityTopK = 5;
 
   return new ContextChatEngine({
     chatModel: llm,

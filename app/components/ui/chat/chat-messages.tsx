@@ -14,11 +14,13 @@ export default function ChatMessages({
   isLoading,
   reload,
   stop,
+  onQuestionClick,
 }: {
   messages: Message[];
   isLoading?: boolean;
   stop?: () => void;
   reload?: () => void;
+  onQuestionClick?: (questionText: string) => void;
 }) {
   const scrollableChatContainerRef = useRef<HTMLDivElement>(null);
 
@@ -34,7 +36,7 @@ export default function ChatMessages({
   }, [messages.length]);
 
   return (
-    <div className="w-full max-w-5xl p-4 bg-white rounded-xl shadow-xl">
+    <div className="w-full max-w-9xl p-4 bg-white rounded-xl shadow-xl">
       <div
         className="flex flex-col gap-5 divide-y h-[50vh] overflow-auto"
         ref={scrollableChatContainerRef}
@@ -43,6 +45,16 @@ export default function ChatMessages({
           <ChatItem key={m.id} {...m} />
         ))}
       </div>
+      {messages.length === 0 && !isLoading && (
+        <div className="mt-auto w-full">
+          <div className="flex flex-col justify-center items-start p-4 space-y-2">
+          <p className="p-2 mb-2 rounded bg-gray-100">Sample Questions</p>
+          <div className=" bg-gray-50 rounded p-2 mb-2 hover:bg-gray-100 cursor-pointer">Find some contradictions in the Respondant's statement</div>
+          <div className=" bg-gray-50 rounded p-2 mb-2 hover:bg-gray-100 cursor-pointer">What are the key points Mr. Anurag mentioned regarding the Claimant's performance and execution?</div>
+          {/* <div className=" bg-gray-50 rounded p-2 mb-2 hover:bg-gray-100 cursor-pointer">Summarize the key points in the Contract Agreement</div> */}
+        </div>
+        </div>
+      )}
     </div>
   );
 }

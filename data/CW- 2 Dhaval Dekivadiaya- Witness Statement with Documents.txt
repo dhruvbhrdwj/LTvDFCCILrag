@@ -1,0 +1,2479 @@
+INTERNATIONAL COURT OF ARBITRATION OF THE
+INTERNATIONAL CHAMBER OF COMMERCE
+
+ICC CASE NO. 26834/HTG
+
+IN THE MATTER OF AN ARBITRATION BETWEEN:
+
+SOJITZ- L&T CONSORTIUM CLAIMANT
+-AND-
+DEDICATED FREIGHT CORRIDOR
+CORPORATION OF INDIA LIMITED RESPONDENT
+INDEX
+S.NO. DESCRIPTION PAGE
+. NO.
+1. | Evidence by way of Affidavit of Dhaval N | 1-24
+Dekivadiya
+2. | Exhibit Cw- 2/1-. Copy of the Letter of Authority 25
+dated 08 August 2019
+3. | Exhibit CW-2/2-. Copy of the Board Resolution! 26.29
+dated 25 July 2018
+4. | Exhibit CW- 2/3- Flow chart explaining the booking. 30-52
+of expenses in IP
+5. | Exhibit CWw- YA- Printout of system generated 53
+extract of an entry made in EIP as on 22 May 2023
+| 6. | Exhibit CW- 2/5- Copies of 2 entries made in HIP | 54-58
+bearing signatures of the concerned persons, hand-
+written new voucher numbers along with receipts
+7, | Exhibit _CWw- 2/6- Printouts of system generated | 59-60
+extracts of the 2 entries in the EIP system post :
+payment reflecting new journal voucher number(s)
+and date(s) |
+
+
+8. | Exhibit CW- 2/7- Printouts of system gencrated | 61
+extracts of the same entry bearing generated on 2
+April 2019 (corresponding to the date of generation
+of the same entry)
+
+9. | Exhibit CW- 2/8- Printout of system generated | 62
+extracts of the same entry bearing generated on 26
+June 2023 (corresponding to the date of generation of
+the same entry)
+
+|
+10. | Exhibit CW- 2/9- chart depicting details of Package | 63
+A, B, Cand D
+
+11. | Exhibit CW- 2/10- Chart depicting the breakup of | 64-65
+Overhead incurred by L&T from commencement up |
+to 31 August 2016, 31 January 2017 and from 10
+February 2017 to 30 June 2018
+
+12. | Exhibit CW- 2/11- A flowchart in respect of the | 66-67
+funding process of management system of L&T
+
+1
+
+(Advocate for the Claimant)
+
+LAW CHAMBERS OF MEGHA MEHTA
+. M-20, Upper Ground Floor
+Greater Kailash Part 2
+
+New Delhi 110048
+
+India
+
+Tel: +919910666829
+
+Dated 7 July 2023
+
+INTERNATIONAL COURT OF ARBITRATION OF THE
+INTERNATIONAL CHAMBER OF COMMERCE
+
+ICC CASE NO. 26834/HTG
+IN THE MATTER OF AN ARBITRATION BETWEEN:
+SOJITZ- L&T CONSORTIUM CLAIMANT
+-AND-
+
+DEDICATED FREIGHT CORRIDOR
+CORPORATION OF INDIA LIMITED , RESPONDENT
+
+EVIDENCE BY WAY OF AFFIDAVIT OF DHAVAL N DEKIVADIYA
+
+I, Dhaval N Dekivadiya, aged about 46 years, son of Nanjibhai Dekivadiya,
+working at Larsen & Toubro Limited, having it office at Landmark
+Building-A Wing, 6" Floor, Off. Andheri-Kurla Road, Suren Road, Andheri
+(East) Mumbai-400093, presently in New Delhi, do hereby solemnly affirm
+
+and declare as under;
+
+1. This is my Witness Statement in the present arbitration between
+Sojitz- L&I Consortium and Dedicated Freight Corridor
+AN ARP Corporation of India Limited.
+
+Save where I indicate to the contrary, the facts and matters contained
+his Witness Statement are within my own knowledge. Where the
+cts are not within my own knowledge, I have identified the source
+of my information and/or belief. I have refreshed my memory by
+
+looking at documents relevant to the events I describe below.
+
+3. In this Witness Statement, I refer to the Claimant, Sojitz- L&T
+,as “L&T” and
+
+
+2
+
+Dedicated Freight Corridor Corporation of India Limited as
+“DFCCIL”.
+
+I. BACKGROUND AND QUALIFICATIONS:
+
+a) Education and Qualifications
+
+4. In the year 1997, I completed my Bachelors of Business
+Administration (“BBA”) from Saurashtra University, Gujarat.
+Thereafter, in the year 1999, while working with L&T, I also pursued
+and completed a Post Graduate Diploma in Business Management
+from Akhil Bhartiya Shiksha Sansthan, New Delhi. Also, while
+working with L&T, I had completed my ICWA-(Inter) from The
+Institute of Cost & Works Accountants of India, Kolkata.
+
+b) Association with Larsen & Toubro Group
+
+5. Pursuant to completing my BBA, in the year 1997, I joined Finance
+and Accounts department of L&T’, Larsen & Toubro Engineering
+Construction and Contracts division as a graduate commercial
+
+trainee.
+4 < stA A Rj bY
+Xk NAgAK Exom 1997 till date i.e. for almost 26 years, I have worked in various
+pavocate
+639
+ae es 8,
+ane ener 7082024
+
+\
+
+YP or» ead office of L&T’s Transportation Infrastructure Independent
+
+ivisions of Finance and Accounts department of L&T. From
+
+ruary-2023 onwards, I am working as DGM-Accounts in the
+
+Company in Mumbai.
+
+c) My Association with Civil Track Package 1 & 2 of Dedicated Freight
+Corridor
+
+7. I have worked as Manager (Acco in Headquarter,
+
+\BE VERON
+
+RO}
+ent Ca 5 3 ny, Mumbai of
+
+Transportation Infrastructure Indepen
+
+3
+
+L&T ("HQ Mumbai”), Even though I was working in HQ Mumbai, |
+was part of the Finance and Accounts Team which was overseeing
+Civil Track Package 1 & 2 of Western Dedicated Freight Corridor
+
+("CTP 1 & 2"). [have been overseeing the booking of expenses made
+for CTP 1 & 2 using the EIP.
+
+8. Subsequently, I shifted to Task Force Leader's ("TFL") office located
+
+in Jaipur falling under HQ Mumbai as the Senior Manager
+
+_ (Accounts) of CTP 1&2 and was working from the said office in the
+
+role of Head- Finance and Accounts. I have worked in the project
+
+CTP1&2 till end of January 2023. I have been transferred to
+Headquarter office Mumbai as DGM-Accounts in February 2023.
+
+9. At CTP1&2 project, some of my responsibilities include supervision
+of all financial transaction entries made by the Finance and Account
+team, fund management in coordination with HQ-Mumbai Finance
+& Account department and treasury team of L&T, coordination and
+follow up for collections of payments and approval.of all site related
+
+remittance/ payment.
+
+aN
+
+aware of the facts and circumstances of the present case -
+
+Reg. No. 10639 on both my personal knowledge and on the basis of the
+
+Period 27/06/2519
+
+© 27/08/2024 A,gegrds maintained by the L&T in the ordinary course of business
+ey
+
+am competent to depose on behalf of L&T.
+
+11. I have been authorized by L&T by a Letter of Authority dated 08
+August 2019 issued in my favour by Mr. D. K. Sen, Whole Time
+Director of L&T, who in turn has been authorized vide resolution of
+
+the Board of L&T dated 25 July 2018 to sweal resent affidavit
+“Uy
+
+and depose on behalf of L&T. Copies of” of Authority
+
+4
+
+dated 08 August 2019 and the Board Resolution dated 25 July 2018
+has been annexed herewith and exhibited as Exhibit CW-2/1 and
+Exhibit CW-2/2 respectively.
+
+12. [have gone through paragraphs 310-315, 329-332, 335 and 344 of the
+Statement of Claim, their corresponding reply in paragraphs 416, 420
+(partly) and 421 (partly) of the Statement of Defence and Counter
+Claim, the corresponding paragraphs 602 and 605 (partly) and 606
+(partly) in the Rejoinder and Statement of Defence to Counter Claim
+and the corresponding paragraphs in the Rejoinder to Counter
+
+Claim filed in the present case.
+
+Il. ENTERPRISE RESOURCE PLANNING SOFTWARE/SYSTEM USED BY
+L&T:
+
+13. L&T uses Enterprise Resource Planning ("ERP") software/ system.
+The ERP system is a centralised system for recording the
+expenditure incurred in respect of inter alia all departments,
+
+processes, operations of each project of L&T in electronic form.
+
+14. The Information and Technology department of L&T customised the
+a ERP software and developed the version called Enterprise
+
+ZAnformation Portal (“EIP”) which is being used by construction
+
+that all expenses are relatable and easily identifiable to such projects,
+a unique job code is generated in the EIP system for each project
+under which all expenses incurred towards or related to the said
+
+project are booked under various accountin:
+
+AC } 5
+
+
+rs)
+16. Based on my personal knowledge of use of EIP, I have hereinbelow
+explained the entire process of booking expenses in EIP as well as its
+
+working for CIP 1 & 2.
+
+IJ. WORKING OF EIP
+
+17. EIP comprises of numerous modules such as Asset Management
+System, Supply Chain Management, Work Order Management,
+Finance module, Human Resource Management, Logistic
+Management, Workforce Management, Travel & Admin module,
+etc. As Head, Finance and Accounts, I have access to the Finance
+Module of EIP, which contains amongst others, Sub-contractor
+Journal Voucher, Purchase Journal Vouchers, Bank Payment
+
+Voucher, Cash Payment Voucher, etc. required for booking of
+
+expenses.
+
+18. For making an entry of a transaction in the EIP, the authorised staff
+is first provided with hard copies of the relevant invoices and other
+supporting documents of the concerned team. Thereafter, an entry of
+
+a transaction in the EIP system is initiated by the authorised staff of
+
+_—— the Finance & Accounting team by entering the requisite details in
+
+ra ve O 2 the EIP system. The name of the said ee staff appears below
+) “,
+
+19. Thereafter, the technical in-charge of the relevant Package is
+required to certify if the said expense has been incurred. For the said
+purpose, the creator of the entry provides a Page of the system
+
+res thereon along
+‘
+
+
+20.
+
+6
+
+with hard copies of the relevant invoices and other supporting
+documents to the Technical In-charge (ie. concerned Project
+Manager). ‘The Project Manager authorises an entry after verifying
+the entry with hard copies of the relevant invoices and other
+supporting documents. Upon approval by the Project Manager, he
+signs above the “Passed By” appearing on the printout of the system
+generated extract. The Project Manager accordingly updates the EIP
+
+to reflect his approval of the entry in the system.
+
+Pursuant to the aforesaid first level approval, there is a second level
+
+‘of approval which is by the Finance and Accounts In-charge of the
+
+concerned Package. For the said purpose, the Finance and Accounts
+In-charge is also provided with the printout of the system generated
+extract (now signed by the Creator and the Project Manager) along
+with hard copies of the relevant invoices and other supporting
+documents. The Finance and Accounts In-charge of the concerned
+Package authorises the entry after verifying the entry with hard
+copies of the relevant invoices and other supporting documents. The
+
+Finance and Accounts in-charge of the relevant package verifies the
+
+entry and authorises the payment, whose name thereafter appears
+
+Post both the level of approvals, the “cashier” collects the signed
+hard copy of the system generated extract and makes payment,
+
+either through cash or bank payment.
+
+
+22. The signed hard copies of the system generated extracts are stored
+and maintained at Jaipur and are available for inspection, in case
+
+required.
+
+23. Post the voucher having been authorised and payment being
+disbursed, EJP generates a new voucher number (the hand-written
+voucher numbers posted on the hard copies of the system extracts
+along with the date of payment). Hence, if system extract is
+generated post authorisation of payment, it is the new voucher
+number (corresponding with the hand-written voucher number on
+the hard copy) along with the date of payment which reflects in the
+EIP instead of the earlier voucher number generated as on the
+
+creation date along with date of creation.
+
+24. I have annexed herewith and exhibited as Exhibit CW-2/3 a flow
+chart explaining the booking of expenses in EIP. Printout of system
+generated extract of an entry made in EIP as on 22 May 2023 is
+annexed herewith and exhibited as Exhibit CW-2/4. Copies of 2
+entries made in EIP bearing signatures of the concerned persons,
+
+~ hand-written new voucher numbers along with receipts are annexed
+_--. herewith and exhibited as Exhibit CW-2/5. Printouts of system
+
+fe NOP
+
+Snerated extracts of the aforesaid entries in the EIP system post
+
+ent reflecting new journal voucher number(s) and date(s) are
+y, xed herewith and exhibited as Exhibit CW-2/6.
+/
+
+‘Me
+
+/
+
+Oe Sef orat ;
+
+CE ep Prarther, the generated date appearing on the bottom of an EIP
+system extract does not reflect the creation date of the said entry but
+only the date when the said document for transaction is being
+extracted for viewing/ downloading/ printing. As an illustration, |
+
+have annexed herewith printouts of system gene Aod extracts of the
+
+
+26.
+
+27.
+
+Advocate
+Reg. No. 10639
+
+8
+
+same entry bearing different gencrated date namely 2 April 2019 and
+26 June 2023 (corresponding to the date of generation of the same
+
+entry) and exhibited as Exhibit CW-2/7 and Exhibit CW-2/8
+
+respectively.
+
+The details of all the people who have verified: cach of the entry
+being made into the EIP system can be viewed under the tab
+
+“Trace”.
+
+From the above process, it is evident that L&T maintains meticulous
+record keeping through the EIP in the course of execution of its
+projects. The EIP used by L&T has all checks, balances and controls
+in place for the accounting entries made by it. Copy of certificate
+dated 3 November 2017 by Bureau Veritas Certification Holding
+S-UK certifying L&T’s Information Security Management systems
+ring data centre, IT Infrastructure being ISO/IEC 27001:2013
+
+a Period 27/06/2019 KOMpliant have been annexed at page 32382 in Volume CD- 65 and
+
+© 27/06/2024
+
+vy ibited as Exhibit C-64.
+
+IV. Working of EIP- CTP 1&2:
+
+28.
+
+Since EIP is the centralised system of operations for L&T
+construction, I have used EIP as part of my duties/job profile in all
+my postings. Further, being part of Finance & Accounts team at HQ-
+Mumbai, I was co-ordinating and consolidating financial accounts of
+all projects under Transportation Infrastructure division of L&T
+including CIP 1 & 2 being recorded and maintained in the EIP as
+
+well as facilitating audit by the statutory auditors.
+
+
+9
+
+29. Further, when | was working as Manager (Accounts) at HQ-
+
+Mumbai, one of my responsibilities in the said role was creation of
+
+unique job code for every new project in EIP.
+
+30. I created the 2 (two) parent job codes for CIP 1 & 2 namely -
+
+LE130759 and LE131222 in October 2013. The parent job code
+LE131222 is in respect of Minor Structures and Track works in CTP 1
+& 2 and parent job code LE130759 is in respect of all other works
+
+excluding Minor Structure and Track Works.
+
+31. Further to creating parent job code, I also created 8 (eight) sub-job
+
+codes (“child job codes”) for CIP 1&2. For the work under MS-3
+from Bhagega to Iqbalgarh, a list of relevant job codes and
+accounting codes has been annexed at page 32380-32381 in Volume
+
+CD- 65 and exhibited as Exhibit C-63.
+
+32. CTP 1&2 was divided into 4 (four) packages ie. Package A, Package
+B, Package C and Package D. There are 4 separate Finance &
+Accounts team for each of the Packages. In all, a total of about 35-40
+
+people work in the said 4 teams. All four teams report to me.
+
+LONE 63, Out of the 8 (eight) child job codes created in EIP System, 2 child job
+.. - PD godes were assigned to each package to enable booking of
+, waa cot prpenditure The present claim pertains to the works in MS-3 ice.
+
+Completion of track skeleton for entire Package for temporary use
+
+2 ze Ay the Employer or by other Employer’s Contractors for
+
+construction and/or for running of material trains, tower wagons,
+rail cum road vehicle etc. and is concerned with the sections from
+
+Bhagega to spa [From IR eninge KM 105.85 to IR Chainage
+
+
+34.
+
+10
+
+A in part. A chart depicting details of Package A, B, C and D is
+annexed herewith and exhibited as Exhibit CW-2/9.
+
+Work in respect of Minor Structures and ‘Track works in MS-3 falls
+under child job codes LE131224, LE131225, and LE131227 and work
+in respect of all other works excluding minor structures and track
+works in MS-3 falls under child job codes LE131216, LE131217
+LE131218, LE130412, LE130836, LE130842 and LE131249. All
+expenses related to execution of the aforesaid work are booked in
+electronic form under the aforesaid child job codes. All these job
+codes are detailed in Exhibit C-63. I state that job codes nos.
+LE130412, LE130836, LE130842 and LE131249 are the codes for the
+purpose of recording resource movements only and are not for the
+purpose of recording of cost. LE130412 is Initial setup and
+establishment code, LE130836 is for Resources (Manpower and Plant
+& Machinery) Formation activities, LE130842 is for Resources
+(Manpower and Plant & Machinery) Structure activities and
+
+LE131249 is for Resources engaged in various design activities.
+
+From the details set out in paragraphs hereinbefore, it is evidence
+
+at L&T maintains rigorous record keeping through the EIP system
+
+accounts are audited at the end of every financial year. For the said
+purpose, the statutory auditors are given access to HIP to enable
+
+them to view and verify the ledger entries the EIP system. The
+
+;
+
+maintained by L&T in support of the ledger entries/i
+
+11
+
+37. I shall provide demonstration of the aforesaid process of record
+
+keeping done by L&T during the present proceedings.
+
+V. CERTIFICATES ISSUED BY STATUTORY AUDITORS:
+
+38. The ledger entries in EIP are recorded regularly in the course of
+business, Claimant has relied on following documents;
+
+a) Ledger for the works carried out enclosed as Exhibit C-187
+(Colly) provides the Cost on Material, Machinery (Owned and
+Hired by L&T), Sub-Contractors, Labour and components of
+Onsite Overhead etc incurred in the period from
+commencement to 31 March 2016.
+
+b) The Ledger for the similar cost incurred enclosed as Exhibit C-
+99 provide that for the period 1 April 2016 to 31 March 2019.
+
+c) Besides the above, the EIP extracts of L&I's ledger entries in
+respect of Onsite expenses incurred for the section Bhagega to
+Iqbalgarh has already been annexed along with other backup
+documents at Pages 33713 to 91616 of Volume CD- 68 to
+Volume CD- 176 and exhibited as Exhibits C-68 (Colly.) to
+Exhibit C- 81 (Colly.).
+
+ye ae “til RZ } ye
+Oy pe extracts of bank vouchers which evidence payments made to
+/ <, Ap
+
+WP te
+/ [ae ie ‘pty owners has been annexed, along with various other
+
+Ka
+
+\* \ eas “8 ah » Hchmens, at pages 2599 to 2916 of Volume CD- 341 and exhibited
+\
+
+pate, a
+\9 \ of gs Asst C- 137 (Colly.).
+\ Ou5 f ‘y, “oe
+
+VI. CERTIFICATES ISSUED BY STATUTORY AUDITORS:
+
+40. The certificate(s) of the Chartered Accountant/ statutory auditors of
+L&T in respect of Head Office Overheads have
+WM,
+
+present proceedings at Pages 91622 to 91623, 916
+
+12
+
+91627, 91628 to 91630 and 91631 to 91633 of Volume CD- 177 and
+exhibited as Exhibit C- 87, C-88, C-89, C-90 and_C-91 respectively.
+
+The certificate given by the statutory auditor of L&T are post
+verification of the actual expenses incurred by L&T and recorded in
+the EIP system of L&T for the relevant job codes. As set out above,
+the said figures are based on duly audited records by statutory
+auditor post verification of the primary documents during the
+
+statutory audit.
+
+Vil. COST INCURRED BY L&T ON SLT’S ONSITE OVERHEAD:
+
+41. I state that as per the actual cost incurred and computed in the
+books of account maintained by L&T, it has
+
+a) incurred Onsite Overhead of Rs. 282,76,99,948./-, from
+commencement up to 31 August 2016,
+
+b) incurred Onsite Overhead of Rs. 3,27,81,40,951/, from
+commencement upto 31 January 2017.
+
+c) Besides the above, from 10 February 2017 to 30 June 2018, L&T
+
+incurred Onsite Overhead of Rs. 159,37,73,820/- for execution
+
+ol v; of MS3 works from Bhagega to Iqbalgarh (Relevant works of
+the Present Cost Claim).
+
+Ries Calculation of Onsite Overhead incurred by L&T for the
+R »* 0. - 1c
+cry \ Pened 27105172019} <7 aforesaid work in the period from 10 February 2017 to 30 June
+
+» 27/06/2024
+
+2018 has been annexed at Page 33712 of Volume CD- 68 and
+exhibited as Exhibit C-67.
+
+42. Further to above, I have submitted a Chart depicting the breakup of
+
+Overhead incurred by L&T from commencement up to 31 August
+
+2016, 31 January 2017 and from 10 February 2017 to 30 June 2018
+
+
+i Av agnve re
+
+| Nva pavoee ng a
+
+\-¥. no enti leg
+
+\ Nees eS |
+de ano fay
+e pe” PS “
+SY } . Ov oi
+
+(iv)
+
+43.
+
+13
+
+out the summary of cost incurred by L&T’ on Plant & Equipment -.
+
+Owned and Hired as contained in the ledger upto 31 August 2016
+
+and 31 January 2017.
+
+In support of the Onsite Overhead cost of Rs. 159,37,73,820/-, the
+
+following documents have been filed by the Claimant:
+
+(i)
+
+(i)
+
+Printouts of L&I's ledger entries in respect of Onsite
+expenses incurred for the section Bhagega to Iqbalgarh has
+already been annexed along with invoices/ payment proof/
+EIP system extracts in support of such Onsite Overhead cost
+have been annexed at Pages 33713 to 91616 of Volume CD- 68
+to Volume CD- 176 and exhibited as Exhibits C-68 (Colly.) to
+Exhibit C- 81 (Colly.).
+
+The salary component of the L&T’s Onsite Overheard has
+
+been booked in the EIP system on lumpsum basis. The
+
+employee-wise pay registers and employee-wise payslips are
+
+maintained by L&T’s SSC Team in Mumbai office. The SSC .
+Team raises lumpsum payment request, which is sanctioned
+by the CTP 1&2 TFL accounts department. The EIP extracts
+of ledger entries, along with extracts of Payslivs and salary
+registers, have been exhibited at Page 33713 of Volume CD-
+68 to Page 43637 of Volume CD-87 as Exhibit C-68 (Colly.).
+The Employee Benefits Compensation component of L&T’s
+Onsite Overheads has been recorded in the EIP system on
+lumpsum basis. For Employee Benefits Compensation the
+
+EIP extracts of ledger entries have .been exhibited at Page
+
+43638 to Page 43678 of Volume CD-88 as Exhibit C-69
+(Colly.).
+
+Out of Pocket Expenses component of L&T’s Onsite
+
+
+Ley Petia 27/96/2049
+G \ bo 27/06/2024
+te, IN 2024
+
+\ fe
+
+Advocate
+Ree. No: 10639
+
+(vii)
+
+14
+
+basis. For Out of Pocket Expenses the EIP extracts of ledger
+entries have been exhibited at Page 43679 to Page 43985 of
+Volume CD-88 as Exhibit C-70 (Colly.).
+
+Staff Travel Cost component of L&T’s Onsite Overheads has
+been recorded in the EIP system on lumpsum basis. For Staff
+Travel Cost the EIP extracts of ledger entries have been
+exhibited at Page 43986 to Page 44222 of Volume CD-88 as
+External Support Staff component of L&I’s Onsite
+Overheads has been recorded in the EIP system on the basis
+of supporting documents. The EIP extract of billing details,
+works orders, EIP bills along with backup documents namely
+copies of vendor invoice have been exhibited at Page 44223 to
+Page 44838 of Volume CD-89 as Exhibit C-72 (Colly.).
+Lease/Rental Cost component of L&T’s Onsite Overheads
+has been recorded in the EIP system on the basis of
+supporting documents such as lease/rent agreement
+between L&T and various landlords, work orders, bills and
+vendor invoices. The EIP extract of the ledger entries along
+with the extracts of work orders, bills, copies of vendor
+
+invoices and rent/lease agreement between L&T and
+
+’ Jandlords have been exhibited at Page 44839 to Page 48924 of
+
+Volume CD-90 to Volume CD-98 as Exhibit C-73 (Colly.).
+
+Staff Other Cost component of L&T’s Onsite Overheads has
+been recorded in the EIP system on the basis of supporting
+documents such as vouchers, bills, vendor invoices. The EIP
+extract of ledger entries, billing details along with the extracts
+of work orders, bills, voucher and copies of vendor invoices
+
+have been exhibited at Page 48925 to Page 97789 of Volume
+
+
+(xi)
+
+15
+
+Insurance Cost component of L&'l’s Onsite Overheads has
+been recorded in the EIP system on the basis of invoices from
+the insurance company. ‘he EIP extract of ledger entries
+along with the copies of invoices of the insurance company
+have been exhibited at Page 57790 to Page 57794 of Volume
+CD-116 as Exhibit C-75 (Colly.).
+
+‘The Conveyance cost component of LL&'l’s Onsite Overheads
+has been recorded in the EIP system on the basis of
+supporting document such as work orders, bills and copies
+of vendor invoices. The EIP extract of billing details along
+with the work orders, bills and copies of vendor invoices
+have been exhibited at Page 57795 to Page 72633 of Volume
+CD-116 to Volume CD-140 as Exhibit C-76 (Colly.).
+Professional Fee component of L&I’s Onsite Overheads has
+been recorded in the EIP system on the basis of supporting
+document such as work orders, bills and copies of vendor
+invoices. The EIP extract of billing details along with work
+order, bills and copies of vendor invoices have been
+exhibited at Page 72634 to Page 76100 of Volume CD-140 to
+Volume CD-146 as Exhibit C-77 (Colly.).
+
+Security Services component of L&T’s Onsite Overheads has
+been recorded in the EIP system on the basis of supporting
+documents such as work order, bills, and copies of vendor
+
+invoices. The EIP extract of billing details, along with work
+
+orders, bills and copies of vendor invoices have been
+
+exhibited at Page 76101 to Page 76425 of Volume CD-147 as
+Exhibit C-78 (Colly.).
+
+Other Administration Costs component of L&I’s Onsite
+
+
+(xiv)
+
+16
+
+and copies of vendor invoices. The EIP extracts of billing
+details and ledger entries along with work orders, bills,
+vouchers and copies of vendor invoices have been exhibited
+at Page 76426 to Page 87153 of Volume CD-148 to Volume
+CD-167 as Exhibit C-79 (Colly.).
+
+The Other Costs component of L&1’s Onsite Overheads has
+been recorded in the EIP system on the basis of supporting
+documents such as work order, bills, vouchers and copies of
+vendor invoices. . The EIP extracts of billing details and
+ledger entries along with work orders, bills, vouchers and
+copies of vendor invoices have been exhibited at Page 87154
+to Page 91414 of Volume CD-168 to Volume CD-176 as
+Exhibit C-80 (Colly.).
+
+The Bank Charges component of L&I’s Onsite Overheads
+has been recorded in the EIP system on the basis of copy of
+bank charges certificate and bank guarantees from the bank.
+The onsite accounts team raises the request with the L&T’s
+Divisional Corporoate Team in Chennai to raise the request
+for issuance and/or amendment of bank guarantee. The
+L&T’s Divisional Corporate Office in Chennai raises the
+request with the bank for issuance and/or amendment of
+bank guarantee. After the issuance of guarantee, the charges
+of the same are charged to the Divisional Corporate Office in
+Chennai which then debits it to the onsite project accounts
+department. This charge is then recorded by the onsite
+accounts team in the EIP. The EIP extracts of ledger entries
+along with the copy of bank charges certificate and bank
+guarantees have been exhibited at Page 91415 to Page 91616
+of Volume CD-176 as Exhibit C-81 (Colly.).
+
+
+17
+
+44, I have set out few explanations in respect of claims/ payments
+
+made:
+
+(a)
+
+(d)
+
+The payments related to all vendors engaged for project are
+being made centrally by Shared Service Center, Chennai for’
+L&T, on daily basis by Bulk NEFT mode.
+
+Salaries and wages of the employees are paid by corporate
+
+Shared Service Center, Mumbai. The total salary payable for the
+
+all employees engaged for this project is debited. This will
+
+appear as a single entry in the ledger and hence, cannot be
+
+bifurcated employee wise. L&T bank statement will have
+
+entries for debit for whole salaried group and not individual
+
+employee wise or project wise as proof of payment.
+
+From the bulk payments made, I have identified the payments
+
+for CTP 1&2 using the payments details in the ledger. I state
+
+that the ledger is on ‘an accrual basis'. Some elements of salary
+
+included in payslip (i.e., performance linked reward etc.) are
+
+also on accrual basis.
+
+Unique Job code is created for each project which is operated by
+
+the whole of construction division including SSC payroll
+
+processing team and respective employees are assigned to
+
+particular Job Code by HR department through transfer order.
+
+Each payslip contains a job code. Hence there is no manual
+
+intervention for staff deployed and their cost booking.
+
+Manual adjustments namely, ‘the amounts recovered for
+materials and/or services provided by I.&T to the agencies
+have been made to the fuel invoices to ensure that the invoices
+are in line with the letter of instruction / purchase orders. Such
+
+adjustments are made on invoices for services /materials
+
+services etc.
+
+
+18
+
+(f) With reference to the accommodation costs to the project, as per
+company policy of L&T, employees are provided with
+accommodation benefit at project site office. Rent of
+accommodation facility availed by employees who are tagged
+
+& working for CIP is getting booked to project job under Rent
+
+account code. This will also be reflected in project cost ledger
+
+under Rent Account codes given in the below table:
+
+Accoun Descript}
+t escription Rens
+80115 | RENT-CO. LEASED BUNG.- __| Non-Work Order
+PROJ.REL Rent payment
+72141 | LEASE RENTAL | Non- Work Order
+Rent payment
+80101 | RENT-OFFICE PREMISES- Non- Work Order
+PROJECT RELATED Rent payment
+72141 | LEASE RENTAL Work Order Rent
+Payment
+80101 | RENT-OFFICE PREMISES- _| Work Order Rent
+PROJECT RELATED Payment
+_—— 80115 | RENT-CO. LEASED BUNG.- __| Work Order Rent
+NOON PROJ.REL Payment
+/ tf 44 “PN 80116 | RENT-COMPANY LEASED Work Order Rent
+a [Pay CT | BUNGALOWS-SCH O° Payment
+[UF [eS 4 Mo,
+1 \ Us relia 3) | 80918 |LEASERENTAL- OTHERS — | Work Order Rent
+VA 202,019 ai Payment
+OF TOY”
+
+(g) As per company policy of L&T, Out of Pocket expense (“OPE”)
+
+was paid to staffs who are located at project site for their petty
+
+expenses for which no invoice would be there. However, there
+
+
+19
+these expenses. Till April 2017, OPE was paid through Site. May
+2017 onwards, it has become part of salary. Hence, no invoices
+
+are even applicable from May 2017.
+
+45. Copies of ledger extracts in respect of Onsite Cost from August 2013
+to March 2016 have been filed as part of documents at Page 74560 to
+96400 in Volume CD- 478 to Volume CD- 513 and exhibited as
+Exhibit C- 187 (Colly.)
+
+VIN. OFFSITE OVERHEAD COST OF L&T IN THE EXTENDED PERIOD:
+
+46. For the computation of Offsite Overhead Cost of L&T in the period
+of 10 February 2017 to 30 June 2018, L&T relied on the Auditors
+
+certificate.
+
+47. As per the auditor's certificate dated 2 August 2014, the percentage
+
+i” es of Head Office Overheads of L&T for the year 2011-12 is 3.62%.
+“
+Ae ,
+
+/
+
+{ Advocate
+
+\ Ras. No. 10639
+Peyod 27/06/2049
+
+% to 27/08/2024
+
+
+20
+48. In respect of Own and Hired. equipment deployed from
+commencement to 31 January 2017, Claimant has filed copies of
+
+ledger extracts from EIP for Own and Hired equipment.
+
+49. In support of its claim for hired plant and machinery deployed from
+
+10 February 2017 to 30 June 2018, Claimant has filed printouts of
+Ledger extract for CTP 1&2 for three financial years starting from 1
+April 2016 upto 31 March 2019 which includes evidence of payment
+made for the Hired Plant and Equipment to the equipment suppliers
+
+at page 131591 to 152009 in Volume CD- 246 to CD- 279 and
+exhibited as Exhibit C-99,
+
+X. ADDITIONAL FUNDS ARRANGED BY L&T FOR CTP 1&2:
+
+50. Due to the execution of Work in the extended period, SLT incurred
+cost on Onsite Overhead. SLT had to maintain resources in the Head
+Office to complete this work in the extended period. The Overhead
+Cost incurred in the extended period was not catered for in the the
+original Contract Price. These costs were met by from L&I’s own
+internal source of funds as no payment relevant to the
+
+“Qo,
+: / — SeStevenentne Overhead Cost incurred in the extended period
+
+fA
+i* ALAKa Anaya =f. wal recovered from the Contract.
+{ [ ra
+
+the Overhead Cost, SLT relied on inter alia the following;
+
+(a) Chartered Accountant's certificate dated 02 August 2014 in
+
+respect of % Offsite expenses incurred by Larsen S ‘oubro
+
+Ye
+=~
+
+Limited for the year ending March 2012; Ac ‘i eg :
+
+“_
+
+2d.
+(b) Chartered Accountant's certificate dated 19 April 2018 in
+
+respect of Onsite Overheads of Larsen & Toubro Limited,
+Construction Division;
+
+(c) MCLR Based Interest Rate Certificate dated 01 July 2021 in
+respect of interest for Larsen & Toubro Limited Cash Credit
+account(s) in State Bank of India for the period 25 January 2017
+to till date
+
+Copies of above along with other documents have been filed at page
+
+178492 to 178501 in Volume CD-333 and exhibited as Exhibit C-116
+(Colly.).
+
+52. The fund management system of L&T is followed as per Cash
+Management System - (“CMS”) principles. According to the said
+system of, all the projects’ IPC collections are collected in “Collection
+Accounts” maintained for each division/independent companies
+and all these amounts are auto sweep at the end of fhe day to main
+Hub Account of L&T Construction Divisional Corporate (“LTC -
+DC’) collection account. From this account also, the total amount of
+
+the day will sweep to L&T House (“LTH”) Corporate Treasury
+
+» Account. Similarly, all divisions like Defence, Hydrocarbon,
+
+(AN — Heavy Engineering-Hazira, LTl-Mindtree, S&A
+
+53. In the same manncr, the disbursements are also operated through
+
+“Disbursement Accounts” maintained for each
+division/independent companies and common Shared——Service
+
+fix OUR! RN \\
+
+Center (SSC) at Chennai. All payments for vendors afd esy bank
+
+a SF; =]]
+Aw”
+
+©
+*
+
+22
+
+payments for all construction projects of all the independent
+companies of L&I Construction are made through SSC Bank
+Accounts. All these accounts’ (ICs and SSC) balances are auto sweep
+to LTC-DC disbursement accounts. All such auto sweeps from all
+other divisions’ accounts and also SSC Corporate Accounts in
+Mumbai (operated for all staff members’ payments like salaries,
+benefits, PE, retirement benefits, travel expenses and all other staff
+related expenses across all the staff members or all the divisions of
+L&T) will be accumulated in L&T House (LTH) Corporate Treasury
+
+Account at the end of each day.
+
+54. This balance of LTH Corporate Treasury Accounts is funded, on a
+daily basis, by many bankers like SBI, HDFC, Citi, ICICI, Axis and
+consortium of various banks, etc. depending upon funding status,
+interest rate agreements between L&T and Bankers and the short-
+term and long-term borrowings as well as investments (in case of
+surplus funds). A flowchart in respect of the funding process of
+
+‘management system of Lé&'l’ is annexed herewith and exhibited as
+
+1 /ALAKA NAYAK
+* Advocate *
+
+Reg. No. 10639;
+
+gap during the execution of the project, funding of additional funds
+is provided from corporate treasury of L&I through own
+
+arrangement of funds.
+
+56. As explained above, CIP1&2 projects’ payments have_also been
+
+fPaQuBRr .
+
+processed from Shared Service Center (SSC) chenfep and imbai
+| a ) \a \
+Che? iC &
+
+
+23
+accounts which are funded through corporate treasury of LTH as
+per the process explained above. Since the outflow for the CTP1&2
+project could not met from the progress payments received under
+the interim payment certificate (IPC), the gap in the cashflow had
+been funded through arrangement of fund through corporate
+treasury of L&T and for that L&T had incurred unforeseen interest
+
+cost during the extended period.
+97. Being such a large engincering and corporate conglomerate of India,
+L&T does not take funding separately for each construction projects.
+Hence, there are no evidence of borrowings available independently
+for CTP1&2 projects’ cash gap funding, which is actually funded by
+
+corporate treasury of L&T through arrangements of funding from
+
+various bankers and interest cost is incurred by L&T at central level.
+
+58. L&T’s central treasury which had funded the project's additional
+overheads/cash gap during extended period has incurred additional
+interest for arranging funds as per the Interest Rate Certificate dated
+01 July 2021 in respect of interest for Larsen & Toubro Limited Cash
+
+LON AR - seal account(s) in State Bank of India for the period.
+
+./ Relevant extract of month-wise anticipated cash flow statement
+SS ‘Gchedule 6), copy of Chartered Accountant's certificate dated 02
+August 2014 in respect of % Offsite expenses incurred by Larsen &
+Toubro Limited for the year ending March 2012; copy of Chartered
+Accountant's certificate dated. 19 April 2018 in respect of Onsite
+
+Overheads of Larsen & Toubro Limited, Construction Division; copy
+
+of MCLR Based Interest Rate Certificate dated 01 July2021 in respect
+
+<OUBR
+of interest for Larsen & Toubro Limited Cash o.
+
+
+24
+
+State Bank of India for the period 25 January 2017 to till 1 July 2021,
+Construction Division and chart detailing progress payments made
+in IPC (inflow) and expenditure incurred month wise (outflow) have
+
+been filed and exhibited as part of Exhibit C-116 (Colly.) in Volume
+CD-333 at pages 178492 to 178501.
+
+XI. LOSS OF OPPORTUNITY /PROFIT CLAIM FOR CTP 1&2:
+
+60. In support of the Claimant’s computation of Loss of Opportunity
+and Profits, the Claimant has filed Profit/ Loss statements of L&T for
+the Financial Years from 2012-13 to 2018-19 at pages 96432 to 96441
+of Volume CD- 513 which are exhibited as Exhibit C- 189 (Colly.).
+
+0 # JUL addcATION
+
+: =f the Deponent above-named, do hereby solemnly verify that the contents
+
+— of paragraph 1 to 60 of my affidavit are true and correct to my knowledge
+
+and based on records of Larsen & Toubro Limited. No part of it is false and
+nothing material has been concealed therefrom.
+
+VERIFIED AT NEW DELHI ON THIS 7 DAY OF JULY 2023
+
+are (0)
+(REE not ces LER TIFIED THAR THE OEP DY
+Cees) Shrj/ Smt. / K ives f
+we ro P . { Eee TINT Sac€enseasenvenateurcenrsarnerhotnn
+geri wn ay U / JUb 028; RA seep: BIR.
+\ . \\) FOR OR MORI Rane eee hr aan ane reeer uhh onan nents con seanhanbeabparyy yr WS
+aa | dentified by Shri /%
+
+Has solemniy affirm¢d Sefore me &
+Delhi ON... 4S Bi No,
+
+That the contents of the aftidayit Vyitich
+nave been read & sxoietred RSG
+nim are true ® correct to fs knawledge
+
+
+25
+Exhibit CW-2/1
+
+e LARSEN & TOUBRO 
+Larsen & Toubro Limited 
+Secretarial Department 
+L& T House, Ballard Estate 
+Narottam Morarjee Marg 
+Mumbai - 400 001, IND/A 
+Tel: +91 22 6752 5656 
+Fax: +91 22 6752 5893 
+www.Larsentoubro.com 
+COPY OF RESOLUTION PASSED BY THE BOARD OF DIRECTORS OF 
+LARSEN & TOUBRO LIMITED AT ITS MEETING HELD ON JULY 25, 2018 
+CERTIFIED UNDER SECTION 21 OF THE COMPANIES ACT, 2013. 
+AMENDMENT TO GENERAL POWERS OF WHOLE-TIME DIRECTORS AND 
+SENIOR EXECUTIVES : 
+"RESOLVED THAT the Chief Executive Officer & Managing Director, Deputy 
+Managing Director, if any, the Whole-time Directors, Chief Financial Officer of the 
+Company, Executive Vice President - Construction & Mining Machinery Business, 
+presently Mr. Arvind K. Garg and Senior Vice President & Head - Electrical & 
+Automation Independent Company presently Dr. Hasit Joshipura, subject to the 
+supervision and control of the Board of Directors, shall severally carry out and 
+perform such duties as may be entrusted to them by the Board of Directors for 
+managing the business and affairs of the Company and for that purpose the Chief 
+Executive Officer & Managing Director, Deputy Managing Director, the Whole-time 
+Directors, Executive Vice President - Construction & Mining Machinery Business, 
+presently Mr. Arvind K. Garg for Construction and Industrial Machinery Business 
+and Senior Vice President & Head - Electrical & Automation Independent 
+Company presently Dr. Hasit Joshipura for Electrical & Automation Independent 
+Company are hereby vested with the following powers, viz. 
+(a) 
+b) 
+To appoint and engage staff, permanent or in special service of the 
+Company, from and above the level / cadre of Joint General Manager within 
+the overall manpower budget and personnel policies approved by the 
+Corporate Management and to determine the terms and conditions, powers 
+and duties of and to transfer, suspend, terminate and/or initiate disciplinary 
+action against any such staff as the Chief Executive Officer & Managing 
+Director, Deputy Managing Director, the Whole-time Directors and the said 
+Senior Executives in their discretion shall think fit; 
+To acquire by purchase, lease, etc. sell, dispose of, provide, maintain and 
+deal in, on such terms and conditions as may be deemed necessary, 
+whatever lands, buildings, machineries, engines, plants, apparatus, stores, 
+stock-in-trade and other products, substance and materials of every nature 
+and kind required for the purpose of business of the Company subject to 
+limits fixed by the Corporate Management and within the approved Capital 
+diture Budget; 
+ISO 9001 REGISTERED 
+(EQ 
+-
+MGMTSYS 
+RvA C Ol4 
+C/N : L99999MH1946PLC004768 
+DNV Certificat,on B.V., The Netherlands 
+26
+Exhibit CW-2/2
+
+c) 
+To erect, construct, enlarge, improve, alter, maintain, rebuild or reconstruct 
+any buildings, factories, offices, workshops or other structures necessary or 
+convenient for the purpose of the business of the Company, subject to limits 
+fixed by the Corporate Management and within the approved Capital 
+Expenditure Budget; 
+d) 
+To enter into all negotiations, sign necessary documents and contracts and 
+to rescind and vary all such documents and contracts and execute and do 
+all such acts, deeds and things in the name and on behalf of the Company 
+in connection with the normal business operations of the Company; 
+e) 
+To give any undertaking(s) required by any customers, government/ non-
+government organizations or in terms of the requirement of any bid/tender 
+documents or in connection with execution of any project(s) or generally as 
+may be deemed necessary in connection with the business of the Company; 
+f) 
+To sign and execute agreements of any description for sale, sale deed, 
+conveyance and other requisite deeds and documents and to authenticate 
+documents, maps, plans etc. as may be necessary and to apply for and 
+obtain all consents, concessions, licences and approvals of any nature from 
+any person or statutory authority or Courts, in connection with the sale 
+and/or transfer of the Company's properties/ premises and 
+to make 
+applications, petitions, affidavits and enter into such agreements and give 
+such undertaking as the said person or statutory authority or Courts may 
+require; to represent the Company, appear and attend before any Registrar 
+or Sub-Registrar of Assurances to have the agreement, sale deed, 
+conveyance or any other deed or document duly registered in favour of the 
+Purchaser/s and for this purpose to sign and admit execution of the same; 
+to appear before various authorities whether State or Central and whether 
+Municipal, Revenue or Judicial or such other local authorities, as the case 
+may be, and to make such applications, undertakings, affidavits, as may be 
+necessary in connection with the said purposes; to receive the sale 
+consideration and/or account for the same in such manner as is considered 
+fit and proper and to give receipts and valid discharge thereof and to appoint 
+Advocates, Valuers and or other consultants as may be necessary for the 
+aforesaid purposes; 
+g) 
+To set up Special Economic Zone units by the Company in various SEZs 
+being developed under the Special Economic Zones Act, 2005 and allied 
+rules and regulations and any other applicable Act / rules / regulations, 
+including State Acts/rules prescribed by the concerned State Governments 
+~~,,0~ .u-M__,a::::, ~ xclude/remove -~tich' ~its and to sign and ex~cute all application~, 
+~
+~ [,~\ 
+~r: . 
+1) 
+: 
+✓ 
+, 
+,~
+--: ·. qt(]Jj .,. 
+,,... 
+_n. 
+'-'. 
+·~~ 
+' -
+' 
+.. 
+..... 
+27
+
+project reports, papers and documents to concerned authorities for setting 
+up or exclusion/removal of unit, including the Joint Director General of 
+Foreign Trade, Special Economic Zone and other relevant authorities and 
+to do all such acts and deeds, effecting any modifications directed by the 
+said authorities, in the applications, projections, papers and documents of 
+the Company, and appointing such external representatives for this 
+purpose; 
+h) 
+To sign Shareholders'/ Joint Venture Agreements with any other parties for 
+acquisition or sale/separation of business/companies and sign all papers, 
+applications and correspondence relating to the said Agreements, including 
+the Annexures to the joint venture agreements, Technology License 
+Agreement, Marketing & Sales Agreement, Lease Agreement, Facilities & 
+Services Agreement and any other ancillary documents, subject, however, 
+to specific approval of the Board for actual investment in case of acquisition 
+and for sale/separation of business; 
+i) 
+To institute, conduct, defend, compromise, refer to arbitration and abandon 
+any legal or other proceedings, claims and disputes by or against the 
+Company; 
+j) 
+To secure the fulfillment of any contracts or engagements entered into by 
+the Company by mortgage or charge of all or any of the properties of the 
+Company for the time being or in such other manner as they may think fit; 
+k) 
+To receive and give effectual receipts and discharges for and on behalf of 
+the Company for moneys, funds, goods, or property, lent to or payable or 
+belonging to the Company; 
+I) 
+To comply with the requirements of any local law which in their opinion, it 
+shall be in the interest of the Company, be necessary or expedient to 
+comply with; 
+m) 
+To represent the Company either severally or otherwise before Central and 
+State Governments and all other Authorities whether Municipal, Revenue 
+or Judicial or such other local authorities or any Bodies Corporate, as the 
+case may be; 
+n) 
+To enter into arrangements with any Government or Authority Supreme, 
+Municipal, local or otherwise and to obtain from such Government or 
+Authority rights, concessions, allowances, leases and privileges; and 
+o) 
+To 
+open, 
+establish, 
+manage 
+and 
+close 
+branch 
+office(s), 
+representative/liaisoning office(s), and project office(s)/ company(ies) by 
+whatever name called, in various countries from time to time, subject to 
+proval of the Res.~,r:ye Bank of India or any pther permissions, consents 
+,rt',. 
+,.~ 
+.... ;4 ~ ., • 
+• 
+.J 
+;')r-'; :->" 
+I 
+,;.,--;,, ', 
+" '7 
+• ..., .. 
+., 
+,> 
+. 
+,, 
+: .,.. ' - •r .. . 
+'I~~ ' •1;.~ . .,. , , .'•' 
+}•~-
+'· 
+·•• r: > 
+·, :.:;.;~:l"{7 ;.-:·.-:·: ,lr ~ 
+. . 
+. 
+-t 
+ir 
+28
+
+or approvals, as may be required including approvals as may be required 
+under local laws of the respective countries; to appoint, designate and 
+remove Branch Manager( s ), Company Representative( s ), ProjecUCompany 
+Manager(s), by whatever name called; to sign and execute the certificate of 
+appointment and other necessary papers and documents in connection with 
+opening, 
+establishment, 
+management 
+and 
+closure 
+of 
+such 
+office(s)/Company (ies), by whatever name called, as may be required by 
+the laws of the respective countries; 
+RESOLVED FURTHER THAT the Chief Executive Officer & Managing Director, 
+Deputy Managing Director, the Whole-time Directors, Chief Financial Officer, 
+Executive Vice President - Construction & Mining Machinery Business, presently 
+Mr. Arvind K. Garg and Senior Vice President & Head - Electrical & Automation 
+Independent Company presently Dr. Hasit Joshipura be and are hereby authorised 
+severally to sub-delegate the powers delegated to them by the Board of Directors 
+of the Company, more particularly, powers described in clauses (a) to (o) as they 
+deem fit for smooth running of business to any person not below the grade of "Joint 
+General Manager". 
+RESOLVED FURTHER THAT implementation/ execution of decisions taken 
+pursuant to powers described in clauses (a) to (o) including signing, submission, 
+execution of tenders, bids, expressions of interest, contracts, agreements, letters, 
+leave and license agreements, agreements to lease, lease deeds, representation 
+and/or registration of documents before government / statutory authorities etc., 
+can be delegated to any person not below the position/grade of "Manager" or the 
+like. 
+July 27, 2018 
+29
+
+30
+Exhibit CW-2/3
+
+Voucher Creation 
+(F&A Team Member)
+“Created by”
+First Level Approval
+(Technical In-charge)
+“Passed by”
+Second Level Approval
+(F&A In-charge)
+“Authorised by”
+Disbursement
+(Cashier – F&A Team)
+31
+
+32
+
+33
+
+Booking Request Creation 
+": 
+O• 
+~;_)"'""°"'=.c,c.c,0c,c.-,cc.c,,c,c_cc.,-:,.c,,•,c.c,c,c<cc•c,-, .c"c,-,...,,c,c,c,c,,c,-,c,-,c,,c,----------------------------------,;;~,-~cc,.c,-,cc,-.c, ,c,,c,c,c,cc6:, •,".·-=,~•=,,:·.: .. ::::::::::::::::::::::::::::::::::::::::~P
+S~;•: < ~ -:;:, fV.; • 
+i:p,i.., ( ( 
+~ '·'""· 1,..,.,.,.~,, .. ~, .. ~· 
+)C 
+,..1 
+34
+
+35
+
+36
+
+37
+
+38
+
+0
+(~> 
+& 1111 (( 
+lllt 
+l :ll 
+',le,,-
+I l'/~tl~ 
+First Level Approval 
+tiJ I,',.,,,,,,.,.,,,:,.:, •.•-,, 
+),i: 
+I t i> 
+X 
+,, . 
+K 
+<:• ·::'., ~} C 
+~ 
+l...tr;cn 8. Toubro Limited, Comtrvttion. 
+* © Q 
+~ 
+f,'\!; • C:c1~, P.:1v1110:1tl Buvk.ill'-1 ( Au~h..:.1",: ) 
+I.Q::10:, ,~ A: CI-IA,P.,.l,l\910ER. (IJ ·,(AA ),:..:i.i,v 
+- ::-.. ,,.,. ~ .... ,., ... ,.,.. __________________________________________________________________________________________________________ _ 
+ll~...,..,.,1.,,-.. u.,.,,,., : ••'-•'•'•·•'•'-"-'•'•'-'•- •••-••••'•' _ _.,1 ... 
+_.1 
+1.:•.-~i.,, c, .............. , ·----··.·.•-• •• ".'.·•-•.•----•''" ... I 
+~,.,,,.u,.1,; , ~.: •. u:.o;.~; 
+-; ,..,u .. 1<: : 1.:v~ . .:,~.1 
+1.: .......... ,. , , •• ,, 
+11 . .,, , ,J., .. .,.~ 
+t ............ , ...... ,,t,. ~7 
+• 
+M t10 V 
+1 
+ILE,/LEJU : l ';/<r'f>/ 1!1/lllfV~000300 
+l✓l 11.,, ..... ., ... 
+Rcnwi,riu: 
+Attoch,n~t 
+,---=='------. 
+l, ______ 
+_,1,1 
+""-
+M 
+i\Hl(IUlll 
+I 
+i 
+39
+
+to 
+,,_ .......... N ,.. 
+8,L:.U: 11:.:1 : .'~••: : : '.\' ltlto.•~.0110.:: :-.1 
+40
+
+41
+
+42
+
+0
+•:.~;.),: >ft.,,.,, ~-t ,..,..., ,.,,,.. 
+I' • .,,,-, ,:,•,: _,, •• , ,l l'I ,_.,,..-... f" 
+~ 
+I "'41 ( ( 
+~ 
+I:,•; . !Ir r.<••~,:,-) •u• 
+X n 1j 
+'ii~ l :h v·~,.. 
+~.,.~«i;,.•, 
+T~..,,,_ 
+i-1~~ -
+~ 
+Lnroon & Toubro Limited. Con~trvction 
+* e (:} 
+v:::.p 
+F1\fi • 01-.h P.1y111~nl p,'""'"'IJ 
+I ()1i)M h ,V. "ltrrl/l''JV./JVJ; \"";UHi'),\ 
+43
+
+.,.,. ... ' . 
+-G L ' IT:O:c 
+e F<:.$ h .. t; .. q r,.,.~;..... 
+l( □ 
+;a._ 
+l :J . 
+~· ._,,, 
+;.,,._,,;.._.. 
+T,..,.·• 
+,-1,_ " 
+11::::J. l.1nen & Toubro limited, Corustruttion 
+* © G} 
+'1'J FA$ - ~11 ~ym..:nL evukiu " ( ,'\v"•v 11"0: ) 
+!.00->~ 1n < suet~t-.•).;:AAAO ❖V/co.i. 
+_,.~,.,,.. ,,,,..,.,,..~ ... , 
+-''"U,O!~ l- ~- -
+: [ ..tl"~ll~-•,Jll:. ~t .. ,:.:.~J J l!li'I 
+(:lu •I"~ itlc:,,...,,.,,. : ,[
+· •• ,., ... ,.,.,.u 
+.. ,.·•···•• .
+j , il:1 
+, •.•• 
+-
+..,,.,..,_
+:] .-,.,,. p,.•,-.-.- ., f\l>.-l'nn 
+. 
+.,,,..,, .. 
+..... -u ...... 
+• 
+•• 
+~ ., ..,,.,.,J.,.,·, 
+..:..J Le,/1..E 131 21 j/CP&.' l ?,101~0000300 
+l.!LI 
+' 
+w' -'wtht\fl:,,. ' 
+I ..,_ 
+"' 
+I_ 
+• 
+• • 
+Tt\n ... ., , [ ,;,r,...-.,'CII~ 
+n-"'"' ,._.., : J 1;.,◄,..,.;-1u< 
+1,;,. ........ _. ,1·"' 
+·"' ........... ~. 
+l'tR ,_n : 
+I 
+, , ........ , i.,. 
+,u,.,J ,,.,,..,1 
+-~ ...... ' 
+tlll.At11<> .. •I 
+~ w 
+n • : .~v 
+' 
+! 
+-
+• 
+r c:: ... ,, ... 
+,.,,..-.,,..Jv'>'I 
+I 
+~ • ..:e 
+I 
+,.,w, ........... ,, ' 
+l.!4>.~} 
+tllt l>"I" 
+.... ., .... 
+~:.: .Aa· :.:~~•.> 
+L' .. \ it':iH 
+• 
+,!) .,._....,,..,.., 
+Lt 
+it!" :, :l.)l'J U <I t..~~ "'""', p JI , ,;11,,_, ,,.,._,,~J 
+44
+
+45
+
+46
+
+Q <~) '!-i!, ....... .,,,,_ ... , .... ~., ~.- r.1 .. ,,.,,. . .,,.,,..1 · \II<•')'"' ••rn ,,. .. ~" :.o.1:1,,..,,1, "0:~·,-1,1•:,,v1.-.. \' :.,,~•,,::1,,. 
+L, 
+X, 
+~~ . ~· • 
+ff. ,~-...,...... 
+)C 
+,. 
+" • 
+d t 
+,,,,.,,. 
+,,,,., . ,., 
+,,,.-1< 
+'°'I" 
+47
+
+48
+
+(11, ::.) ,-..., 'l:l,~ .••r:ilrl :c:.<)'l"A,:,~, 'J(U.'tAilol.ie :,~l,'•(.I f.1'a -..11 ~ 
+1 
+,f>L·m,:c 
+~
+:A;. 
+,.. LJ 
+P• 
+i: 
+,'( 
+G· ·{;, e; @ 
+49
+
+50
+
+51
+
+52
+
+Larsen & Toubro Limited, Construction.
+Larsen & Toubro Limited, Construction, Mount-Poonamallee Road, Manapakkam, Chennai, Tamil Nadu, 600089 - India
+FAS
+Bank Payment Booking - LE/LE130759/BPB/23/INR/0000239 - Dt.22 May 2023
+Accounting Centre
+: SZ000010 - Shared Services Centre - Accounting Center
+Favouring
+: VAIBHAV JAISWAL
+Currency Rate Type
+: Monthly
+Voucher Description
+: ELCTRICAL WORKS EXPENSES REIMBURSEMENT FOR BUILDINGs 
+BANGURGRAM PKG-C ON 03.04.23
+Currency Rate
+: 1.00
+Voucher Details
+Voucher Amount 
+: 2,484.94
+Values In 
+: Indian rupee
+Vr Sl. No
+Ledger Job
+Account
+Amount
+Narration
+Employee
+Vendor
+Customer
+1
+LE131217 - WDFCC CTP 1 AND 2 - 
+PACKAGE C (DFCC)( SZ000010 - Shared 
+Services Centre - Accounting Center )
+00082252 - R&M-OTHERS-
+PROJECT RELATED( 00016993 - 
+INTER ECC GROUP BALANCES )
+847.40
+EXPENSES FOR 
+BUILDING WORKS ON 
+03.04.23
+2
+LE131217 - WDFCC CTP 1 AND 2 - 
+PACKAGE C (DFCC)( SZ000010 - Shared 
+Services Centre - Accounting Center )
+00082252 - R&M-OTHERS-
+PROJECT RELATED( 00016993 - 
+INTER ECC GROUP BALANCES )
+1,258.48
+EXPENSES FOR 
+BUILDING WORKS ON 
+03.04.23
+3
+LE131217 - WDFCC CTP 1 AND 2 - 
+PACKAGE C (DFCC)( SZ000010 - Shared 
+Services Centre - Accounting Center )
+00036700 - CGST Input Tax Credit
+( 00016993 - INTER ECC GROUP 
+BALANCES )
+76.27 CGST
+4
+LE131217 - WDFCC CTP 1 AND 2 - 
+PACKAGE C (DFCC)( SZ000010 - Shared 
+Services Centre - Accounting Center )
+00036701 - SGST Input Tax Credit
+( 00016993 - INTER ECC GROUP 
+BALANCES )
+76.27 SGST
+5
+LE131217 - WDFCC CTP 1 AND 2 - 
+PACKAGE C (DFCC)( SZ000010 - Shared 
+Services Centre - Accounting Center )
+00036700 - CGST Input Tax Credit
+( 00016993 - INTER ECC GROUP 
+BALANCES )
+113.26 CGST
+6
+LE131217 - WDFCC CTP 1 AND 2 - 
+PACKAGE C (DFCC)( SZ000010 - Shared 
+Services Centre - Accounting Center )
+00036701 - SGST Input Tax Credit
+( 00016993 - INTER ECC GROUP 
+BALANCES )
+113.26 SGST
+Total :
+2,484.94
+Created By
+SAHIB DAYAL SINGH .
+Passed By
+Authorized By
+Received By
+Report Generated at 3-Jul-2023 6:22:10 PM
+Page 1
+53
+Exhibit CW-2/4
+
+54
+Exhibit CW-2/5
+
+55
+
+56
+
+57
+
+58
+
+Accounting Centre 
+:
+LE131217 - WDFCC CTP 1 AND 2 - PACKAGE C (DFCC)
+Voucher No
+:
+7727
+Paid To
+:
+P.K. ROY
+Reference Document
+:
+Payments - Cash
+Paid Amount
+:
+2,500.00
+Values In
+:
+Indian rupee
+Vr Sl No
+Ledger Job
+Ledger COA
+Debit
+Credit
+Remarks - Account Nature
+Employee
+Vendor
+Customer
+Financial Entry Type
+1
+LE131217 - 
+WDFCC CTP 1 AND 
+2 - PACKAGE C 
+(DFCC)
+ ( -do- )
+00078328 - 
+STAFF MESS 
+EXPENSES         
+                      
+ ( -do- )
+2,500.00
+0.00
+BEING PILLOW (TAKIYA) PUR 
+FOR STAFF & MANAGER GUEST 
+HOUSE AT SOJAT, PALI & 
+MARWAR JN SITE VIDE BILL NO 
+119. - STAFF MESS EXPENSES     
+                           - 
+LE/LE131217/CPB/16/INR/00032
+11
+20037933 - 
+DADWAL 
+JITENDRA 
+HASTIMAL
+Original Entry
+2
+LE130759 - 
+WDFCC  CTP-1  2 
+RAILWAY-Parent 
+Job
+ ( -do- )
+00029025 - 
+CASH AT 
+JOBSITES          
+                        
+ ( -do- )
+0.00
+2,500.00
+Contra - 
+LE/LE131217/CPB/16/INR/00032
+11
+20037933 - 
+DADWAL 
+JITENDRA 
+HASTIMAL
+Contra Entry
+Total :
+2,500.00
+2,500.00  ( Indian rupee Two Thousand, Five Hundred and Zero Paise Only  )
+Voucher Details
+Cash
+:
+905 - Cash at site - LE131217
+Cheque No
+:
+Cash
+(,3/	7&RQVWUXFWLRQ$OOULJKWVUHVHUYHG
+Page 1
+Report Generated at 10-Apr-2019 12:49:23 PM
+Passed By
+SAXENA SK
+PATRAWALA ABOOZAR MOZI
+PROSENJIT KUMAR ROY
+Authorized By
+Disbursed By
+Received By
+Created By
+DADWAL JITENDRA HASTIMAL
+FAS
+Payments - Cash - LE/LE131217/FCP/16/INR/0007727 - Dt. 28 Mar 2017
+Larsen & Toubro Limited, Construction.
+PB No 979, Mount-Poonamallee Road, Manapakkam, Chennai - 600089, Tamilnadu, India
+[52227]
+59
+Exhibit CW-2/6
+
+Accounting Centre 
+:
+LE131216 - WDFCC CTP 1 AND 2 - PACKAGE B (DFCC)
+Voucher No
+:
+5599
+Paid To
+:
+LALCHAND JAT
+Reference Document
+:
+Payments - Cash
+Paid Amount
+:
+2100.00
+Values In
+:
+Indian rupee
+Vr Sl No
+Ledger Job
+Ledger COA
+Debit
+Credit
+Remarks - Account Nature
+Employee
+Vendor
+Customer
+Financial Entry Type
+1
+LE131216 - 
+WDFCC CTP 1 AND 
+2 - PACKAGE B 
+(DFCC)
+ ( -do- )
+00078468 - 
+FOOD 
+EXPENSES - 
+VISITORS
+ ( -do- )
+2100.00
+0.00
+SWEETS FOR GUEST - Food 
+Expenses - Visitors - 
+LE/LE131216/CPB/17/INR/00009
+46
+Original Entry
+2
+LE130759 - 
+WDFCC  CTP-1  2 
+RAILWAY-Parent 
+Job
+ ( -do- )
+00029025 - 
+CASH AT 
+JOBSITES          
+                        
+ ( -do- )
+0.00
+2100.00
+Contra - 
+LE/LE131216/CPB/17/INR/00009
+46
+Contra Entry
+Total :
+2100.00
+2100.00  ( Indian rupee Two Thousand, One Hundred and Zero Paise Only  )
+Voucher Details
+Cash
+:
+904 - Cash at site - LE131216
+Cheque No
+:
+Cash
+(,3/	7&RQVWUXFWLRQ$OOULJKWVUHVHUYHG
+Page 1
+Report Generated at 25-Mar-2019 2:53:01 PM
+Passed By
+ANILA KUMAR RAUTA
+ANILA KUMAR RAUTA
+HIMANSHU GIRISHBHAI SURTI
+Authorized By
+Disbursed By
+Received By
+Created By
+GIRDHAR ASHISH BHASKAR
+FAS
+Payments - Cash - LE/LE131216/FCP/17/INR/0005599 - Dt. 28 Feb 2018
+Larsen & Toubro Limited, Construction.
+PB No 979, Mount-Poonamallee Road, Manapakkam, Chennai - 600089, Tamilnadu, India
+ff""'\. 
+'-V 
+I 
+[88084]
+60
+
+Accounting Centre 
+:
+LE130759 - WESTERN FREINGHT CORRIDOR - CTP-1 & 2 (RAILWAY)
+Voucher No
+:
+17738
+Paid To
+:
+COOK & HELPER-TFL 
+Reference Document
+:
+Payments - Bank
+Paid Amount
+:
+84639.00
+Values In
+:
+Indian rupee
+Vr Sl No
+Ledger Job
+Ledger COA
+Debit
+Credit
+Remarks - Account Nature
+Employee
+Vendor
+Customer
+Financial Entry Type
+1
+LE130759 - 
+WDFCC  CTP-1  2 
+RAILWAY-Parent 
+Job
+ ( -do- )
+00078328 - 
+STAFF MESS 
+EXPENSES         
+                      
+ ( -do- )
+84639.00
+0.00
+COOK & HELPER WAGES FTM 
+FEB17 - STAFF MESS EXPENSES  
+                              - 
+LE/LE130759/BPB/16/INR/00008
+19
+Original Entry
+2
+LE130759 - 
+WDFCC  CTP-1  2 
+RAILWAY-Parent 
+Job
+ ( -do- )
+00030201 - 
+AXIS BANK LTD 
+- CMS A/C
+ ( -do- )
+0.00
+84639.00
+Contra - 
+LE/LE130759/BPB/16/INR/00008
+19
+Contra Entry
+Total :
+84639.00
+84639.00  ( Indian rupee Eighty-Four Thousand, Six Hundred and Thirty-Nine and Zero Paise Only  )
+Voucher Details
+Bank
+:
+021 - axis bank limited
+Cheque No
+:
+Manual DD
+(,3/	7&RQVWUXFWLRQ$OOULJKWVUHVHUYHG
+Page 1
+Report Generated at 2-Apr-2019 10:46:48 AM
+Passed By
+ROHIT NABERA
+YUNUS HARIS AZIZ
+TOL HRUSHIKESH GURURAJ
+Authorized By
+Disbursed By
+Received By
+Created By
+HIMANSHU GIRISHBHAI SURTI
+FAS
+Payments - Bank - LE/LE130759/FBP/16/INR/0017738 - Dt. 30 Mar 2017
+Larsen & Toubro Limited, Construction.
+PB No 979, Mount-Poonamallee Road, Manapakkam, Chennai - 600089, Tamilnadu, India
+Exhibit CW-2/7 61
+
+Accounting Centre 
+:
+LE130759 - WESTERN FREINGHT CORRIDOR - CTP-1 & 2 (RAILWAY)
+Voucher No
+:
+17738
+Paid To
+:
+COOK & HELPER-TFL 
+Reference Document
+:
+Payments - Bank
+Paid Amount
+:
+84639.00
+Values In
+:
+Indian rupee
+Vr Sl No
+Ledger Job
+Ledger COA
+Debit
+Credit
+Remarks - Account Nature
+Employee
+Vendor
+Customer
+Financial Entry Type
+1
+LE130759 - 
+WDFCC  CTP-1  2 
+RAILWAY-Parent 
+Job
+ ( -do- )
+00078328 - 
+STAFF MESS 
+EXPENSES         
+                      
+ ( -do- )
+84639.00
+0.00
+COOK & HELPER WAGES FTM 
+FEB17 - STAFF MESS EXPENSES  
+                              - 
+LE/LE130759/BPB/16/INR/00008
+19
+Original Entry
+2
+LE130759 - 
+WDFCC  CTP-1  2 
+RAILWAY-Parent 
+Job
+ ( -do- )
+00030201 - 
+AXIS BANK LTD 
+- CMS A/C
+ ( -do- )
+0.00
+84639.00
+Contra - 
+LE/LE130759/BPB/16/INR/00008
+19
+Contra Entry
+Total :
+84639.00
+84639.00  ( Indian rupee Eighty-Four Thousand, Six Hundred and Thirty-Nine and Zero Paise Only  )
+Voucher Details
+Bank
+:
+021 - axis bank limited
+Cheque No
+:
+Manual DD
+(,3/	7&RQVWUXFWLRQ$OOULJKWVUHVHUYHG
+Page 1
+Report Generated at 26-Jun-2023 11:54:08 AM
+Passed By
+ROHIT NABERA 
+YUNUS HARIS AZIZ 
+TOL HRUSHIKESH GURURAJ
+Authorized By
+Disbursed By
+Received By
+Created By
+HIMANSHU GIRISHBHAI SURTI
+FAS
+Payments - Bank - LE/LE130759/FBP/16/INR/0017738 - Dt. 30 Mar 2017
+Larsen & Toubro Limited, Construction.
+PB No 979, Mount-Poonamallee Road, Manapakkam, Chennai - 600089, Tamil Nadu, India
+62
+Exhibit CW-2/8
+
+Parent Job 
+LE131222
+Minor Structures and Track works
+Parent Job 
+LE130759
+Civil formation and Structures excluding 
+Minor Structures and Track works
+CTP – 1 and 2 Project
+Package – A
+LE131215
+Package – B
+LE131216
+Package – C
+LE131217
+Package – D
+LE131218
+Package – A
+LE131223
+Package – B
+LE131224
+Package – C
+LE131225
+Package – D
+LE131227
+63
+Exhibit CW-2/9
+
+Overhead Cost 
+ 
+ 
+ 
+ Ledger  
+As per Claim 
+S.N 
+Heads 
+Sub Heads 
+ Amount upto 
+31.08.16  
+ Amount upto 
+31.01.17  
+ Amount from 
+09.02.17 to 30.06.18  
+1 
+Staff Salary 
+Staff salary 
+              
+1,25,04,62,913  
+              
+1,43,16,16,684  
+                 
+56,31,92,572  
+EBC 
+                   
+7,85,33,707  
+                   
+8,93,61,990  
+                   
+3,26,26,207  
+OPE 
+                   
+6,15,95,093  
+                   
+6,97,40,048  
+                      
+39,61,455  
+Staff Travel Cost 
+                   
+7,25,74,960  
+                   
+7,66,72,688  
+                   
+1,15,06,152  
+2 
+External Support Staff 
+External Support Staff 
+                 
+33,69,35,659  
+                 
+42,73,15,569  
+                 
+36,43,13,495  
+3 
+Rental Charges 
+Rental Charges 
+                 
+15,17,27,210  
+                 
+17,67,17,675  
+                   
+8,01,63,374  
+4 
+Staff Other Cost 
+Staff Other Cost 
+                   
+1,69,83,930  
+                   
+2,14,89,017  
+                   
+1,52,88,786  
+Food Pantry 
+                      
+74,46,953  
+                      
+82,24,167  
+                      
+29,64,699  
+Other Staff Welfare 
+                      
+52,67,416  
+                      
+69,16,680  
+                        
+3,47,763  
+Staff Mess 
+                   
+3,93,35,080  
+                   
+4,42,36,296  
+                   
+1,77,67,773  
+5 
+Insurance 
+Insurance 
+                   
+6,75,66,469  
+                   
+6,75,66,469  
+                 
+10,02,48,125  
+6 
+Conveyance 
+Conveyance 
+                 
+19,92,57,766  
+                 
+24,54,98,270  
+                 
+15,18,58,451  
+7 
+Professional Fees 
+Professional Fees 
+                   
+5,44,13,951  
+                   
+5,44,13,951  
+                   
+3,47,48,039  
+8 
+Security Services 
+Security Services 
+                 
+10,91,39,969  
+                 
+13,47,94,148  
+                 
+10,98,26,122  
+64
+Exhibit CW-2/10
+
+9 
+Admn. Cost 
+Electricity 
+                   
+5,47,65,272  
+                   
+6,63,16,048  
+                   
+2,64,20,947  
+Printing Expenses 
+                      
+60,15,350  
+                      
+71,81,316  
+                        
+1,84,634  
+Mobile Expenses 
+                      
+43,31,347  
+                      
+43,71,038  
+                      
+12,26,163  
+Water Charges 
+                      
+85,01,535  
+                      
+95,77,707  
+                      
+19,83,216  
+R&M Others 
+                   
+1,84,68,116  
+                   
+2,12,39,068  
+                      
+67,92,758  
+Repair & Maint. WOD 
+                 
+17,27,83,284  
+                 
+17,64,98,097  
+                   
+1,09,75,614  
+10 
+Other Cost 
+Other Cost 
+                      
+86,61,659  
+                   
+1,11,76,446  
+                      
+84,67,682  
+Food Expenses 
+                      
+29,94,335  
+                      
+37,18,250  
+                        
+8,51,595  
+Sundries Others 
+                        
+7,38,904  
+                      
+12,53,463  
+                        
+3,69,357  
+Sundries Lunch 
+                      
+22,31,493  
+                      
+24,58,315  
+                        
+3,48,333  
+11 
+Finance Charges 
+Finance Charges 
+                   
+9,69,67,578  
+                 
+11,97,87,552  
+                   
+4,73,40,507  
+Grand Total 
+  
+              
+2,82,76,99,948  
+              
+3,27,81,40,951  
+              
+1,59,37,73,820  
+ 
+65
+
+L&T CASH MANAGEMENT SYSTEM (CMS-BASED FUNDING) 
+ 
+ 
+INFLOW 
+ 
+LTH (L&T House) Treasury  
+Corporate Treasury 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LTH Colleciton 
+CMS Account
+LTC DC 
+Treasury Coll. 
+A/c.
+TI IC Coll. 
+Account
+CTP-1&2
+Project - 1 
+Project - 2 
+Project - 3 
+Project - 4 
+Project - 5
+HC IC Coll. 
+Account
+Project - 1 
+Project - 2 
+Project - 3 
+Project - 4 
+Project - 5
+B&F IC Coll. 
+Account
+Project - 1 
+Project - 2 
+Project - 3 
+Project - 4 
+Project - 5
+PT&D IC Coll. 
+Account
+Project - 1 
+Project - 2 
+Project - 3 
+Project - 4 
+Project - 5
+Water IC Coll. 
+Account
+Project - 1 
+Project - 2 
+Project - 3 
+Project - 4 
+Project - 5
+M&M IC Coll. 
+Account
+Project - 1 
+Project - 2 
+Project - 3 
+Project - 4 
+Project - 5
+L&T Defence 
+Coll. Account
+L&T Hydro 
+Carbon Coll. 
+Account
+L&T 
+Technology 
+Account
+HED Hazira 
+Coll. Account
+LTI Mindtree 
+Account
+S&A Co. Coll. 
+Account
+Collection Bank 
+Account Citi Bank 
+66
+Exhibit CW-2/11
+
+OUTFLOW 
+ 
+LTH (L&T House) Treasury  
+Corporate Treasury 
+ 
+ 
+ 
+ 
+ 
+LTH 
+Disbursement 
+CMS Account
+Corporate 
+SSC (Staff 
+Exp.)
+LTC DC 
+Treasury 
+Disb. Account
+SSC Vendors 
+& Site Disb. 
+Account
+CTP-1&2
+Project - 1 
+Project - 2 
+Project - 3 
+Project - 4 
+Project - 5
+Project - 6 
+Project - 7 
+Project - 8 
+Project - 9 
+Project - 10
+TI IC Disb. 
+Account
+HC IC Disb. 
+Account
+B&F IC Disb. 
+Account
+PT&D IC Disb. 
+Account
+Water IC 
+Disb. Account
+M&M IC Disb. 
+Account
+L&T Defence 
+Disb. Account
+L&T Hydro 
+Carbon Disb. 
+Account
+L&T 
+Technology 
+Account
+HED Hazira 
+Disb. Account
+LTI Mindtree 
+Account
+S&A Co. Disb. 
+Account
+Disbursement Bank 
+Account Citi Bank 
+67
+
