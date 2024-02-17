@@ -1,2 +1,2 @@
 # arbitrationGPT
-Building the basic RAG for Aritration cases
+Building a basic RAG for Arbitration cases
