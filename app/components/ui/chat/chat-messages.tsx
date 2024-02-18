@@ -48,7 +48,7 @@ export default function ChatMessages({
       {messages.length === 0 && !isLoading && (
         <div className="mt-auto w-full">
           <div className="flex flex-col justify-center items-start p-4 space-y-2">
-          <p className="p-2 mb-2 rounded bg-gray-100">Sample Questions</p>
+          <p className="p-2 mb-2 rounded bg-gray-100 hover:bg-gray-200 cursor-pointer">Sample Questions</p>
           <div className=" bg-gray-50 rounded p-2 mb-2 hover:bg-gray-100 cursor-pointer">Find some contradictions in the Respondants statement</div>
           <div className=" bg-gray-50 rounded p-2 mb-2 hover:bg-gray-100 cursor-pointer">What are the key points Mr. Anurag mentioned regarding the Claimants performance and execution?</div>
           {/* <div className=" bg-gray-50 rounded p-2 mb-2 hover:bg-gray-100 cursor-pointer">Summarize the key points in the Contract Agreement</div> */}
